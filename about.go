@@ -3,7 +3,7 @@ package GoMod
 import (
 	"fmt"
 
-	"github.com/GZhonghui/GoMod/version"
+	"github.com/GZhonghui/GoMod/v2/version"
 )
 
 func PrintAboutMessage() {
